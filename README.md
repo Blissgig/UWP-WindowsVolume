@@ -1,0 +1,6 @@
+# UWP-WindowsVolume
+This allows a UWP application to update the Windows Volume, as opposed to the Application's volume.
+
+Thanks for the help of fellow Reddits for some of this information.
+
+https://www.reddit.com/r/WPDev/comments/4e3086/windows_volume/
