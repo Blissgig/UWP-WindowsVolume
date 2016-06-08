@@ -9,4 +9,5 @@ c# example:
 
 double volumeChange = 0.5;
 
+//The return value is the new/updated Windows volume level
 float fValue = VolumeControl.ChangeVolumeToLevel(volumeChange);
