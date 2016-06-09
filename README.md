@@ -5,7 +5,7 @@ Thanks for the help of fellow Reddits for some of this information.
 
 https://www.reddit.com/r/WPDev/comments/4e3086/windows_volume/
 
-Special thanks to user Sunius for the base code
+Special thanks to user Sunius for creating the base code
 https://www.reddit.com/r/WPDev/comments/4kqzkb/launch_exe_with_parameter_in_uwp/d3jepi7
 
 You will also need to set "unsafe" code option in the project.
